@@ -1,0 +1,79 @@
+29th Jan Python Assignment
+
+
+ques 1:- Who developed python programming  language?
+ans :- Guido van Rossum
+
+ques 2:-Which type of programming language does python support?
+ans:-Object-oriented programming and structured programming are fully supported,
+	 and many of their features support functional programming and aspect-oriented
+	 programming (including metaprogramming and metaobjects).
+
+ques 3:-Is python case sensitive when dealing with identifiers ?
+ans:-Yes, Python is a case-sensitive language,  it treats uppercase and lowercase characters
+ 	differently.This applies to identifiers too. You must avoid using the same name with different 
+	cases while naming identifiers. It is always good to use names that are more easily understood
+
+ques 4:-What is correct extension of the python file?
+ans:- .py
+
+ques 5:-Is python code compiled or interpreted ?
+ans:- Python is an interpreted language, which means the source code of a Python program is converted into
+	 bytecode that is then executed by the Python virtual machine.
+ques 6:- Name a few blocks of code used to define in python language ?
+ans:- The following are blocks: a module, a function body, and a class definition. Each command typed 
+	interactively is a block.A script file (a file given as standard input to the interpreter or specified as a 
+	command line argument to the interpreter) is a code block.
+
+ques 7:- State a character used to give sing le comments in python ?
+ans :- "#"
+
+ques 8:- Mention functions which can help us to find the version that we are currently working on?
+ans :-  The function sys. version can help us to find the version of python that we are currently working on.
+
+ques 9:- Python supports the creation of anonymous sunctionst runtime .using a construct called?
+ans :- lambda
+
+ques 10:- What does pip stands for python?
+ans :- pip Install Packages
+
+ques 11:- Mention a few built-in functions in python?
+ans:-
+print( ) function.
+type( ) function.
+input( ) function.
+abs( ) function.
+pow( ) function.
+dir( ) function.
+sorted( ) function.
+max( ) function.
+
+ques 12:-What is maximum possible length of an identifier in python?
+ans :-  An identifier can have a maximum length of 79 characters in Python
+
+ques 13:- what are benefits of using python ?
+ans :-
+a)Large developer community. 
+b)Python is one of the most popular programming languages in the world. ...
+	Extensive libraries. 
+c)Python offers a wide range of libraries that can be used across various applications. ...
+d)Write less, do more. 
+e)Python has very concise syntax. ...
+f)Portability. ...
+g)Wide range of use cases.
+
+ques 14:- How is memory managed in python ?
+ans:- The memory is a heap that stores the program's objects and other data structures.
+	 The Python memory manager uses API methods to handle the allocation and deallocation of this heap space. 
+	We create a new Class in the example above. 
+	After that, we created an instance of the class and made it a property of itself
+
+ques 15:-How to install Python on windows and set path variables?
+ans:-In the section entitled User Variables, double-click on the entry that says Path. Another window will pop up showing a list of paths.
+	 Click the New button and paste the path to your Python executable there. 
+	Once that’s inserted, select your newly added path and click the Move Up button until it’s at the top.
+
+ques 16:-	Is indenttation required in python ?
+ans:-Indentation refers to the spaces at the beginning of a code line. Where in other programming languages the indentation in code is for 
+readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code.
+
